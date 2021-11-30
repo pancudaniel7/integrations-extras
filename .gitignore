@@ -117,3 +117,4 @@ wheelhouse/
 # pyenv versioning
 .python-version
 
+.history/
